@@ -2,9 +2,9 @@
 name = "jh2525"
 version = "0.1.0"
 description = "A full-stack Jac application"
-entry-point = "main.jac"
+entry-point = "main"
 kind = "web-app"
-jac-version = "==0.34.28"
+jac-version = "==0.38.0"
 
 [dependencies]
 [dependencies.npm]
@@ -24,7 +24,7 @@ typescript = "^5.3.3"
 
 
 
-[dev-dependencies]
+[dev-dependencies.pypi]
 watchdog = ">=3.0.0"
 
 [serve]
