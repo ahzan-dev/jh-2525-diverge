@@ -9,3 +9,4 @@ footer link
 fix login redirect
 add pricing page
 add changelog date
+tweak hero copy
